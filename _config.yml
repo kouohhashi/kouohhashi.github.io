@@ -1,15 +1,15 @@
 actors:
-  alice:
+  Ko:
     image_url: https://shabelab.com/img3/baseball_podcast_icon.png
     name: Ko Ohashi
-    url: https://shabelab.com/podcast/
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
+    url: https://kouohhashi.qrunch.io/
+  SHO:
+    image_url: https://shabelab.com/img3/baseball_podcast_icon.png
+    name: SHO(EDGE OF SPIRIT)
+    url: 
 author: Ko Ohashi
 description: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。
-description_long: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。
+description_long: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。リラックスして聴いて頂けると嬉しいです。野球ポッドキャストではゲストを募集してしています。野球が好きな方ならどなたでも大歓迎です。
 email: kouohhashi@sotuu.network
 exclude:
   - docker
@@ -20,8 +20,8 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
-itunes_podcast_url:
+hashtag: sotuuN
+itunes_podcast_url:http://baseball.shabelab.com/feed.xml
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: 野球ポッドキャスト（喋）
+url: http://baseball.shabelab.com/
