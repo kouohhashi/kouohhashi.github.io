@@ -22,7 +22,7 @@ exclude:
 google_analytics:
 hashtag: sotuuN
 itunes_podcast_url:http://baseball.shabelab.com/feed.xml
-keywords: comma,separated,keywords
+keywords: 野球,プロ野球,ベースボール,Baseball,MLB,NPB,巨人,阪神,中日,ヤクルト,広島,DeNA,ソフトバンク,西武,楽天,ロッテ,オリックス,日ハム
 language: ja
 markdown: kramdown
 permalink: /episode/:title
