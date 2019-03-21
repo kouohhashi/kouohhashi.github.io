@@ -1,12 +1,12 @@
 actors:
-  Ko:
+  ko:
     image_url: /images/actors/alice.png
     name: Ko Ohashi
     url: https://kouohhashi.qrunch.io/
-  SHO:
+  sho:
     image_url: /images/actors/bob.png
     name: SHO(EDGE OF SPIRIT)
-    url: 
+    url:
 author: Ko Ohashi
 description: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。
 description_long: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。リラックスして聴いて頂けると嬉しいです。野球ポッドキャストではゲストを募集してしています。野球が好きな方ならどなたでも大歓迎です。
