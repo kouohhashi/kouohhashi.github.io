@@ -1,10 +1,10 @@
 actors:
   Ko:
-    image_url: https://shabelab.com/img3/baseball_podcast_icon.png
+    image_url: /images/actors/alice.png
     name: Ko Ohashi
     url: https://kouohhashi.qrunch.io/
   SHO:
-    image_url: https://shabelab.com/img3/baseball_podcast_icon.png
+    image_url: /images/actors/bob.png
     name: SHO(EDGE OF SPIRIT)
     url: 
 author: Ko Ohashi
