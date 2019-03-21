@@ -1,16 +1,16 @@
 actors:
   alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    image_url: https://shabelab.com/img3/baseball_podcast_icon.png
+    name: Ko Ohashi
+    url: https://shabelab.com/podcast/
   bob:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: Ko Ohashi
+description: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。
+description_long: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。
+email: kouohhashi@sotuu.network
 exclude:
   - docker
   - docker-compose.yml
