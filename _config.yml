@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: 野球ポッドキャスト（喋）
+title: 喋野球ポッドキャスト
 url: http://baseball.shabelab.com/
