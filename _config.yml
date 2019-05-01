@@ -11,6 +11,10 @@ actors:
     image_url: /images/actors/bob.png
     name: Sakai
     url:
+  masumoto:
+    image_url: /images/actors/bob.png
+    name: Masumoto
+    url:
 author: Ko Ohashi
 description: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。
 description_long: 野球が好きな奴が野球についてダラダラ喋るポッドキャストです。主に直近の1〜2週間の間に話題になった事をトピックに、ゲストの方と野球についてダラダラ喋ります。ゲストの方の好みに応じてトピックをピックアップするので、episodeによって高校野球多めとか、巨人関連多めとかバラツキがあるかもです。リラックスして聴いて頂けると嬉しいです。野球ポッドキャストではゲストを募集してしています。野球が好きな方ならどなたでも大歓迎です。
